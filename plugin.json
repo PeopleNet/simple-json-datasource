@@ -1,6 +1,6 @@
 {
   "name": "PeopleNetSimpleJson",
-  "id": "grafana-simple-json-datasource",
+  "id": "peoplenet-simple-json-datasource",
   "type": "datasource",
 
   "staticRoot": ".",
